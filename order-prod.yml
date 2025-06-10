@@ -1,8 +1,8 @@
 build:
-  version: "1.3"
+  version: "1.4"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Ronaldo - Product Owner"
     email: "aishwarya@eazybank.com"
